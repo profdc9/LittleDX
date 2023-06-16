@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LittleDX)(type KiCad)(uri "$(KIPRJMOD)/LittleDX.pretty")(options "")(descr ""))
+)
