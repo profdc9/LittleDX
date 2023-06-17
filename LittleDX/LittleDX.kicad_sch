@@ -9799,7 +9799,7 @@
       (reference "C26") (unit 1) (value "10 nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-000061b53775/55d20e98-5b70-4244-9e15-607accb639f3"
-      (reference "C27") (unit 1) (value "100 nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C27") (unit 1) (value "1 uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-000061b53775/7a0f8fde-597e-49a7-8173-605cdb26d5a9"
       (reference "C28") (unit 1) (value "4.7 uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
